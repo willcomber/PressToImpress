@@ -92,3 +92,12 @@ padding-right: 8%;
     max-width: 100%;
   }
 }
+
+.endblock a{
+	color: white;
+	text-decoration: none;
+}
+.endblock p{
+	padding-top: 2px;
+	text-align: center;
+}
